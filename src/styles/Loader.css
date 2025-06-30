@@ -1,0 +1,20 @@
+/* Loader.css */
+.loader-wrapper {
+    top: 45%;
+    left: 50%;
+    transform: translate(-45%);
+    position: absolute;
+  }
+  
+  .spinner {
+    width: 60px;
+    height: 60px;
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid var(--span-color);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+  }
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+  
