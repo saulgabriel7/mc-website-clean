@@ -12,9 +12,9 @@ import img2 from '../assets/2.svg';
 import img3 from '../assets/3.svg';
 
 
-import imv1 from '../assets/IMV001 - copia.jpeg'
-import imv2 from '../assets/IMV002 - copia.jpeg'
-import imv3 from '../assets/IMV003 - copia.jpeg'
+import imv1 from '../assets/IMV001 - copia.jpeg';
+import imv2 from '../assets/IMV002 - copia.jpeg';
+import imv3 from '../assets/IMV003 - copia.jpeg';
 import imv4 from '../assets/IMV004 - copia.jpeg';
 import imv5 from '../assets/IMV005 - copia.jpeg';
 import imv6 from '../assets/IMV006 - copia.jpeg';
